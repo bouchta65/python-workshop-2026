@@ -79,3 +79,6 @@ Surface = longueur * largeur
 ### Challenge 13 : Affichage des valeurs binaire et hexadécimale équivalentes
 Écrivez un programme Python pour afficher la valeur équivalente en binaire et en hexadécimal. Entrez un nombre entier et affichez ses valeurs équivalentes en binaire et en hexadécimal.
 
+
+
+
