@@ -1,0 +1,5 @@
+n1 = float(input("Enter the first number: "))
+n2 = float(input("Enter the second number: "))
+n3 = float(input("Enter the third number: "))
+average = (n1 + n2 + n3) ** (1/3)
+print("The average of the three numbers is: ", average)
