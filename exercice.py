@@ -35,5 +35,4 @@ first_number = int(input("give me the first number: "))
 number_2 = int(input("give me the number 2: "))
 
 result = first_number + number_2
-print(result)
-
+print(result)    
